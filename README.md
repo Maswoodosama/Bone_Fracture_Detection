@@ -1,6 +1,6 @@
 This project aims to detect bone fractures in X-ray images using the YOLOv8 object detection model from Ultralytics,
 
-Bone fracture detection is critical task in medical imaging, This project leverages the Yolov8 mode for object detection to identify fractures in X-ray images accurately and efficiently
+Bone fracture detection is critical task in medical imaging, This project leverages the Yolov8 model for object detection to identify fractures in X-ray images accurately and efficiently
 
 # OVERVIEW
 
